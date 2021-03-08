@@ -15,4 +15,4 @@
 
 
 <h2>Credits</h2>
-- Author: Kelvin Guaman
+- Author: Kelvin Guaman & Matthew Gomes
